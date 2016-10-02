@@ -1,7 +1,7 @@
 Milk
-<em>Eggs</em>
+*Eggs
 Blueberries
-<em>Yogurt</em>
+*Yogurt
 Kim chee
 Gruyere cheese
 Apple cider
